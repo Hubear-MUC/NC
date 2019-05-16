@@ -1,4 +1,4 @@
 # NC
 First programs
 
-Current code space 1 byte
+Current code space 2 bytes
