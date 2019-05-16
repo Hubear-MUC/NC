@@ -1,8 +1,7 @@
-NC 1.0
+NC 2.0
 
-The program contains just a semicolon.
+This is a first usable remark, even if it is empty.
 
-No functionality, but correct syntax as the semicolon divides two statements.
-
-Because of no main- function being present, the program can not be compiled.
+The program is not yet compilable because it does not contain a main()-
+function.
 
