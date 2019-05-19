@@ -1,7 +1,5 @@
-NC 2.0
+NC 3.0
 
-This is a first usable remark, even if it is empty.
+This program contains an empty remark realized with //
 
-The program is not yet compilable because it does not contain a main()-
-function.
-
+It is not yet compilable because it does not contain a main- function.
