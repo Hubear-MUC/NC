@@ -1,5 +1,6 @@
-NC 3.0
+The program contains a remark built with /**/
 
-This program contains an empty remark realized with //
+The remark is empty.
 
-It is not yet compilable because it does not contain a main- function.
+The program ist not compilable because it does not contain a main()- function.
+
