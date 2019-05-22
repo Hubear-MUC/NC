@@ -1,8 +1,10 @@
 # NC
 First programs
 
-The file code.cpp did not get updated this time.
-However, the function is the same, just the //- comment got extended a bit.
-Let us see if the file gets updated next time when a bigger change in the code will happen.
+This is the starting point of regaining my coding skills after a long break, beginning with a very small amount of code and growing bigger over the time.
+
+This program can not be compiled because it does not contain the main()- function.
+
+See readme.txt for details
 
 Current code space 4 bytes
