@@ -1,6 +1,4 @@
-The program contains a remark built with /**/
+This program contains a comment made with slashes telling that it is the
+5th program of this project.
 
-The remark is empty.
-
-The program ist not compilable because it does not contain a main()- function.
-
+The program is not compilable because it does not contain a main()- function.
