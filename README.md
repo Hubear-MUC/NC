@@ -7,4 +7,4 @@ This program can not be compiled because it does not contain the main()- functio
 
 See readme.txt for details
 
-Current code space 5 bytes
+Current code space 6 bytes
